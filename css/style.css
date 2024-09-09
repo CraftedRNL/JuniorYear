@@ -1,0 +1,14 @@
+
+.col {
+    background-color: rgb(126, 125, 124);
+    height: 50px;
+    width: 50px;
+    background-image: url("../img/R.jpg")
+}
+.borderstuff {
+    border-top: 2px solid;
+    border-right: 2px dashed;
+}
+body {
+    overflow: hidden;
+}
